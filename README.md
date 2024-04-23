@@ -43,4 +43,4 @@ message. This means older messages `will not` be printed.
 
 ## Screenshots
 
-![star topology](screenshots/star-topology.jpg)
+![star topology](screenshots/star_topology.jpg)
